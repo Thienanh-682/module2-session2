@@ -1,10 +1,17 @@
-{
-  "compilerOptions": {
-    "module": "commonjs",
-    "target": "es5",
-    "sourceMap": true
+[
+  {
+    "name": "xxx",
+    "email": "xxx",
+    "phone": "xx"
   },
-  "exclude": [
-    "node_modules"
-  ]
-}
+  {
+    "name": "vvvv",
+    "email": "vvv@vvv.vvv.ccc",
+    "phone": "vvv"
+  },
+  {
+    "name": "cccccc",
+    "email": "ccc@ccc.ccc.cc",
+    "phone": "ccccc"
+  }
+]
